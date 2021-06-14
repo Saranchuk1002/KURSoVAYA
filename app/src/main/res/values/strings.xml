@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="headlinesDay">Заголовки дня</string>
+    <string name="NewsForYou">Новости для вас</string>
+    <string name="subtitle">Подзаголовок</string>
+    <string name="titleOfNews">Заголовок новости</string>
+    <string name="author">Автор</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="source">Источник</string>
+</resources>
